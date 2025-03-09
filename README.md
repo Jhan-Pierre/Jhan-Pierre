@@ -37,10 +37,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Jhan-Pierre Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhan-Pierre&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhan-Pierre&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Jhan-Pierre" height="230px"/>
-    <br/>
-
-  <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes en los que está escrito mi código público y no reflejan nivel de experiencia o habilidad.
 </p>
 
 </details>
