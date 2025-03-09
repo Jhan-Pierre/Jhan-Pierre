@@ -17,13 +17,43 @@
 - :thinking: Estoy abierto a nuevas `oportunidades laborales`, aquí está [MI RESUMEN](https://www.linkedin.com/in/jhandev/).
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhan-Pierre&theme=tokyonight_duo" alt="Jhan-Pierre" />
+</p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Jhan-Pierre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhan-Pierre&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+        <img alt="Jhan-Pierre Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhan-Pierre&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
     </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhan-Pierre&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Jhan-Pierre" height="230px"/>
     <br/>
-    <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes en los que está escrito mi código público y no reflejan nivel de experiencia o habilidad.
+
+  <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes en los que está escrito mi código público y no reflejan nivel de experiencia o habilidad.
 </p>
+
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Jhan-Pierre&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Jhan-Pierre" />
+    </a> 
+</p>
+	
+</details>
+
