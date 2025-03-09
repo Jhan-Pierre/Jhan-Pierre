@@ -16,3 +16,14 @@
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Estoy abierto a nuevas `oportunidades laborales`, aquí está [MI RESUMEN](https://www.linkedin.com/in/jhandev/).
 <br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Jhan-Pierre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhan-Pierre&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhan-Pierre&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Jhan-Pierre" height="230px"/>
+    <br/>
+    <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes en los que está escrito mi código público y no reflejan nivel de experiencia o habilidad.
+</p>
