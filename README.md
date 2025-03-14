@@ -9,13 +9,16 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br>
 
-- :school: Soy titulado en `Desarrollo de Software` por [Senati](https://www.senati.edu.pe/).
-- :technologist: Me apasiona desarrollar `software` como solución a los problemas.
-- :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Estoy abierto a nuevas `oportunidades laborales`, aquí está [MI RESUMEN](https://www.linkedin.com/in/jhandev/).
-<br>
+
+<br>  
+
+- 🎓 **Titulado en** `Desarrollo de Software` por [Senati](https://www.senati.edu.pe/).  
+- 💻 **Apasionado por el desarrollo de software** como solución a los problemas.  
+- 📚 **Siempre aprendiendo** y explorando nuevas tecnologías.  
+- 🚀 **Abierto a nuevas oportunidades laborales**. Consulta [mi perfil](https://www.linkedin.com/in/jhandev/) para más información.  
+
+<br> 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> Github Stats
 
