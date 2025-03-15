@@ -20,39 +20,9 @@
 
 <br> 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhan-Pierre&theme=tokyonight_duo" alt="Jhan-Pierre" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhan-Pierre&theme=tokyonight_duo" alt="Jhan-Pierre Streak Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhan-Pierre&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="Jhan-Pierre GitHub Stats" height="180px"/>
 </p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Jhan-Pierre Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jhan-Pierre&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-    </a>
-</p>
-
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Jhan-Pierre&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Jhan-Pierre" />
-    </a> 
-</p>
-	
-</details>
-
