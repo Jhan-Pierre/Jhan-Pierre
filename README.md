@@ -34,5 +34,6 @@
 	<a href="https://github.com/Jhan-Pierre"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/51941120990"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 	<a href="https://www.linkedin.com/in/jhandev/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://jhan-pierre-mm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=plastic&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
