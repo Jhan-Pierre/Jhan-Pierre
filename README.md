@@ -20,7 +20,8 @@
 - 💻 **Apasionado por el desarrollo de software** como solución a los problemas.  
 - 📚 **Siempre aprendiendo** y explorando nuevas tecnologías.  
 - 🚀 **Abierto a nuevas oportunidades laborales**. Consulta [mi perfil](https://www.linkedin.com/in/jhandev/) para más información.  
-- 📄 **Descarga mi CV** [aquí](https://jhan-pierre-mm.vercel.app/files/CV-JHAN_PIERRE-DEV.pdf).  
+- 📄 **Descarga mi CV** <a href="https://jhan-pierre-mm.vercel.app/files/CV-JHAN_PIERRE-DEV.pdf" target="_blank">Aquí</a>
+
 
 <br> 
 
