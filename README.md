@@ -3,11 +3,15 @@
 </div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
-- 🎓 **Titulado en** `Desarrollo de Software` por [Senati](https://www.senati.edu.pe/).  
-- 💻 **Apasionado por el desarrollo de software** como solución a los problemas.  
-- 📚 **Siempre aprendiendo** y explorando nuevas tecnologías.  
-- 🚀 **Abierto a nuevas oportunidades laborales**. Consulta [mi perfil](https://www.linkedin.com/in/jhandev/) para más información.  
-- 📄 **Descarga mi CV** <a href="https://jhan-pierre-mm.vercel.app/files/CV-JHAN_PIERRE-DEV.pdf" target="_blank">Aquí</a>
+- 🎓 **Graduado en Desarrollo de Software** por [Senati](https://www.senati.edu.pe/)  
+- 💻 **Desarrollador BackEnd** con más de un año de experiencia en soluciones escalables.  
+- 📚 **Aprendiendo continuamente**, explorando nuevas tecnologías y metodologías.  
+- 🚀 **Abierto a nuevas oportunidades** en proyectos desafiantes.  
+- 🌐 **Enfocado en aplicaciones web** con tecnologías modernas.  
+- 📄 **Descarga mi CV** [**Aquí**](https://jhan-pierre-mm.vercel.app/files/CV-JHAN_PIERRE-DEV.pdf).  
+- 🔗 **Conéctate conmigo** a travez de  [LinkedIn](https://www.linkedin.com/in/jhandev/).
+
+
 <p align="center">
   <div align="center">
     <a href="mailto:jhanpierredev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
