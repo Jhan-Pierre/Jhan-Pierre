@@ -8,7 +8,7 @@
 - 📚 **Aprendiendo continuamente**, explorando nuevas tecnologías y metodologías.  
 - 🚀 **Abierto a nuevas oportunidades** en proyectos desafiantes.  
 - 🌐 **Enfocado en aplicaciones web** con tecnologías modernas.  
-- 📄 **Descarga mi CV** [**Aquí**](https://jhan-pierre-mm.vercel.app/files/CV-JHAN_PIERRE-DEV.pdf).  
+- 📄 **Descarga mi CV** [**Aquí**](https://www.jhandev.software/files/CV-JHAN_PIERRE-DEV.pdf).  
 - 🔗 **Conéctate conmigo** a travez de  [LinkedIn](https://www.linkedin.com/in/jhandev/).
 
 
@@ -17,7 +17,7 @@
     <a href="mailto:jhanpierredev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://wa.me/51941120990"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
     <a href="https://www.linkedin.com/in/jhandev/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://jhan-pierre-mm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=plastic&logo=rocket&logoColor=white" alt="Portfolio"/></a>	  
+    <a href="https://www.jhandev.software/"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=plastic&logo=rocket&logoColor=white" alt="Portfolio"/></a>	  
   </div>
 </p>
 <br> 
